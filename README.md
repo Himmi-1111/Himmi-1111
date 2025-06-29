@@ -11,7 +11,7 @@
 - Domains: Embedded Systems, 6G Research, AI/ML, Systems Engineering.
 
 ## Projects
-- LeetCode Solutions: [https://github.com/Himmi-1111/LeetCode-Solutions-Himanshu)](#)
+- LeetCode Solutions: [https://github.com/Himmi-1111/LeetCode-Solutions-Himanshu](#)
 - WiFi 8 Firmware Optimization (Qualcomm)
 
 ## Goals
