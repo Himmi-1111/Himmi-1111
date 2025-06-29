@@ -3,7 +3,7 @@
 - Focused on Embedded Systems Engineering , Hardware-Software Co-Design and C++ programming.
 - Research and Development of Modern Wireless Systems. 
 - Open to opportunities in Europe (Embedded Systems, AI Systems Engineering, Hardware-Software Co-Design and HW Accelerators).
-- [LinkedIn](www.linkedin.com/in/himanshu-gautam-304649a8 | [Email](mailto:himanshugautam.ece@gmail.com)
+- [LinkedIn](www.linkedin.com/in/himanshu-gautam-304649a8 | [Email](himanshugautam.ece@gmail.com)
 
 ## Skills
 - Languages: C++, C, Python, MATLAB, R
