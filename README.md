@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Himanshu Gautam!
+- M.Tech from IIT Kanpur | Senior Engineer @Qualcomm (WiFi/5G mmWave).
+- Focused on Embedded Systems Engineering , Hardware-Software Co-Design and C++ programming.
+- Research and Development of Modern Wireless Systems. 
+- Open to opportunities in Europe (Embedded Systems, AI Systems Engineering, Hardware-Software Co-Design and HW Accelerators).
+- [LinkedIn](www.linkedin.com/in/himanshu-gautam-304649a8 | [Email](mailto:himanshugautam.ece@gmail.com)
 
-<!--
-**Himmi-1111/Himmi-1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Languages: C++, C, Python, MATLAB, R
+- Tools: Git, Azure, Perforce
+- Domains: Embedded Systems, 6G Research, AI/ML, Systems Engineering.
 
-Here are some ideas to get you started:
+## Projects
+- LeetCode Solutions: [Check here](#) (link to my solutions repo : TODO)
+- WiFi 8 Firmware Optimization (Qualcomm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Mastering DSA.
+- Relocating to Europe for embedded roles.
